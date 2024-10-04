@@ -8,9 +8,7 @@
 
 <h2 align="left"></h2>
 
-###
 
-<h5 align="left">c || cpp || js</h5>
 
 ###
 
