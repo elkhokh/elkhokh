@@ -13,7 +13,7 @@ c |c++ | js | php </p>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning backend (Node.js)<br>🎯 Goals: top<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning backend (php||laravel)<br>🎯 Goals: top<br>🎲 Fun fact: ...</p>
 
 ###
 
@@ -39,6 +39,8 @@ c |c++ | js | php </p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
