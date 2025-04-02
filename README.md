@@ -42,7 +42,7 @@ c |c++ | js | php </p>
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="sql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/SQL/SQL-original.svg" height="40" alt="SQL logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
