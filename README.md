@@ -11,20 +11,13 @@ c |c++ | js | php </p>
 <h2 align="left"></h2>
 
 
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning backend (php||laravel)<br>🎯 Goals: top<br>🎲 Fun fact: ...</p>
-
-###
-
 <div align="left">
 
 
 
   <p align="left"> <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/mustafa-khalid-a50598267/">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="75"/>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50"/>
     </a>
   </p>
 
