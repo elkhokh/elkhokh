@@ -47,11 +47,7 @@ c |c++ | js | php </p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 
-  </p>
 
-  <p align="center"> <!-- Profile Views -->
-      <img src="https://electo.wuaze.com/" height="35"/>
-  </p>
 
   <p align="left"> <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/mustafa-khalid-a50598267/">
@@ -61,12 +57,7 @@ c |c++ | js | php </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,docker,git,stackoverflow"/>
-  </p>
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-  <p align="left">
-<!--       <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/> -->
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,mysql,sqlserver,html,css,js,docker,php,nodejs,canva,bootstrap,vscode,npm,git,stackoverflow"/>
   </p>
 
   <p align="left"> <!-- Languages -->
