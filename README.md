@@ -20,10 +20,11 @@ c |c++ | js | php </p>
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50"/>
     </a>
   </p>
+<!--   https://www.codewars.com/users/Mustapha%20khalid%20 -->
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,mysql,sqlserver,html,css,js,docker,php,nodejs,canva,bootstrap,vscode,npm,git,stackoverflow,codeforce"/>
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,mysql,sqlserver,html,css,codewars,js,docker,php,nodejs,canva,bootstrap,vscode,npm,git,stackoverflow"/>
   </p>
 
   <p align="left"> <!-- Languages -->
