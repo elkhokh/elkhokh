@@ -46,6 +46,36 @@ c |c++ | js | php </p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+
+  </p>
+
+  <p align="center"> <!-- Profile Views -->
+      <img src="https://electo.wuaze.com/" height="35"/>
+  </p>
+
+  <p align="left"> <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/mustafa-khalid-a50598267/">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="75"/>
+    </a>
+  </p>
+
+<h3 align="left">🛠️ Languages & Tools:</h3>
+  <p align="left">
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,docker,git,stackoverflow"/>
+  </p>
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+  <p align="left">
+<!--       <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/> -->
+  </p>
+
+  <p align="left"> <!-- Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elkhokh&layout=compact&langs_count=5&theme=codeSTACKr"/>
+  </p>
+
+  <p align="center"> <!-- Snake -->
+      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
 </div>
 
 ###
