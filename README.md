@@ -14,12 +14,19 @@ c |c++ | js | php </p>
 <div align="left">
 
 
-
-  <p align="left"> <!-- LinkedIn -->
+<p align="left"> <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/mustafa-khalid-a50598267/">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50"/>
     </a>
-  </p>
+    <!-- Codewars -->
+    <a href="https://www.codewars.com/users/Mustapha%20khalid">
+      <img src="https://www.codewars.com/users/Mustapha%20khalid/badges/small" height="50"/>
+    </a>
+    <!-- Codeforces -->
+    <a href="https://codeforces.com/profile/elkhokhy">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3628698-3030113.png" height="50"/>
+    </a>
+</p>
 <!--   https://www.codewars.com/users/Mustapha%20khalid%20 -->
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
