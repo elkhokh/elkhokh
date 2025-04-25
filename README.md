@@ -11,9 +11,9 @@ c |c++ | js | php </p>
 <h2 align="left"></h2>
 
 
-<div align="left">
 
-<div align="left">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/mustafa-khalid-a50598267/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="25" alt="linkedin logo"  />
       </a>
@@ -35,7 +35,7 @@ c |c++ | js | php </p>
 
 
 <!--   https://www.codewars.com/users/Mustapha%20khalid%20 -->
-
+<div align="left">
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
     <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,mysql,sqlserver,html,css,js,docker,php,nodejs,canva,bootstrap,linux,ubuntu,postman,vscode,npm,git,laravel,stackoverflow,leetcode"/>
