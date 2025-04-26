@@ -45,9 +45,6 @@ c |c++ | js | php </p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elkhokh&layout=compact&langs_count=5&theme=codeSTACKr"/>
   </p>
 
-  <p align="center"> <!-- Snake -->
-      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </p>
 </div>
 
 ###
