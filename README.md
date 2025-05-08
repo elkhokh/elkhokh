@@ -35,7 +35,7 @@ c |c++ | js | php </p>
 <div align="left">
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,php,js,mysql,sqlserver,nodejs,html,css,docker,canva,bootstrap,linux,ubuntu,postman,vscode,npm,git,laravel,stackoverflow,leetcode"/>
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,php,js,mysql,sqlserver,nodejs,html,css,laravel,npm,docker,git,canva,bootstrap,ubuntu,vscode,postman,linux,stackoverflow,leetcode"/>
   </p>
 
   <p align="left"> <!-- Languages -->
