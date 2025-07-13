@@ -3,7 +3,7 @@ PHP | Laravel Backend Developer </h1>
 
 ###
 
-<p align="left">My name is Mostafa and I'm a Backend Developer|php laravel| from Egypt
+<p align="left">My name is Mostafa and I'm a Backend Developer | php laravel| from Egypt
 c |c++ | js | php </p>
 
 ###
