@@ -1,5 +1,5 @@
 <h1 align="left">Mustafa Khalid
-PHP | Laravel Backend Developer </h1>
+ |  Backend Developer | PHP |Laravel  </h1>
 
 ###
 
