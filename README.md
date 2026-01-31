@@ -43,8 +43,19 @@
     <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,php,js,mysql,sqlserver,nodejs,html,css,laravel,npm,docker,git,canva,bootstrap,ubuntu,vscode,postman,linux,stackoverflow,leetcode"/>
   </p>
   
+  <h3 align="left">💻 Most Used Languages:</h3>
   <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkhokh&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true&exclude_repo=repo1,repo2"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </p>
+  
+  <!-- أو استخدم ده بدلاً من الـ badges -->
+  <p align="left">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elkhokh&theme=monokai"/>
   </p>
 </div>
 
