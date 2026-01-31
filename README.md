@@ -13,25 +13,28 @@
 
 ###
 
-<h2 align="left"></h2>
+<h2 align="left">🌐 Connect With Me:</h2>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mustafa-khalid-a50598267/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="35" alt="linkedin logo"  />
-      </a>
-    <a href="https://x.com/ElkhokhyMostafa">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="35" alt="twitter logo"  />
-    </a>
-      <a href="https://www.linkedin.com/in/mustafa-khalid-a50598267/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="35" alt="discord logo"  />
-    </a>
-      <a href="https://www.linkedin.com/in/mustafa-khalid-a50598267/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="35" alt="youtube logo"  />
-    </a>
-        <a href="https://wa.me/+201004643861">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="35" alt="whatsapp logo"  />
-    </a>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mustafa-khalid-a50598267/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/ElkhokhyMostafa" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://wa.me/+201004643861" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://youtube.com/@YourChannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.codewars.com/users/Mustapha%20khalid%20" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
+  </a>
+</p>
 
 ###
 
@@ -53,7 +56,6 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   </p>
   
-  <!-- أو استخدم ده بدلاً من الـ badges -->
   <p align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elkhokh&theme=monokai"/>
   </p>
