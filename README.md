@@ -53,7 +53,9 @@
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cloud-00ADEE?style=for-the-badge&logo=icloud&logoColor=white"/>
   </p>
-  
+  <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkhokh&layout=compact&hide=html,css&theme=monokai" />
+</p>
   <p align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elkhokh&theme=monokai"/>
   </p>
