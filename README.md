@@ -41,7 +41,7 @@
 <div align="left">
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,php,laravel,cpp,c,js,mysql,redis,cloud,docker,git,linux,vscode,postman,mongodb,nginx"/>
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,php,laravel,cpp,c,js,mysql,redis,aws,docker,git,linux,vscode,postman,mongodb,nginx"/>
   </p>
   
   <h3 align="left">💻 Most Used Languages & Tech:</h3>
