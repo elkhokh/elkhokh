@@ -1,13 +1,13 @@
-<h1 align="left">Mustafa Khalid | Backend Developer | PHP | Laravel | Java | Spring Boot</h1>
+<h1 align="left">Mustafa Khalid | Backend Developer | PHP | Laravel </h1>
 
 ###
 
 <p align="left">
 👋 Hi, I'm Mostafa!<br>
-🚀 Backend Developer specializing in PHP (Laravel) & Java (Spring Boot)<br>
+🚀 Backend Developer specializing in PHP (Laravel) <br>
 💻 Passionate about building scalable web applications & cloud solutions<br>
 🌍 Based in Egypt<br>
-⚡ Tech Stack: PHP | Laravel | Java | Spring Boot | C++ | C | MySQL | Redis | Cloud<br>
+⚡ Tech Stack: PHP | Laravel | C++ | C | MySQL | Redis | Cloud<br>
 📫 Let's connect and build something amazing together!
 </p>
 
