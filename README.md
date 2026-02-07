@@ -1,13 +1,13 @@
-<h1 align="left">Mustafa Khalid | Backend Developer | PHP | Laravel</h1>
+<h1 align="left">Mustafa Khalid | Backend Developer | PHP | Laravel | Java | Spring Boot</h1>
 
 ###
 
 <p align="left">
 👋 Hi, I'm Mostafa!<br>
-🚀 Backend Developer specializing in PHP & Laravel<br>
-💻 Passionate about building scalable web applications<br>
+🚀 Backend Developer specializing in PHP (Laravel) & Java (Spring Boot)<br>
+💻 Passionate about building scalable web applications & cloud solutions<br>
 🌍 Based in Egypt<br>
-⚡ Tech Stack: PHP | Laravel | C | C++ | JavaScript | MySQL<br>
+⚡ Tech Stack: PHP | Laravel | Java | Spring Boot | C++ | MySQL | Redis | Cloud<br>
 📫 Let's connect and build something amazing together!
 </p>
 
@@ -38,27 +38,23 @@
 
 ###
 
-<!--   https://www.codewars.com/users/Mustapha%20khalid%20 -->
-
 <div align="left">
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,php,js,mysql,sqlserver,nodejs,html,css,laravel,npm,docker,git,canva,bootstrap,ubuntu,vscode,postman,linux,stackoverflow,leetcode"/>
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,php,laravel,cpp,c,js,mysql,redis,cloud,docker,git,linux,vscode,postman,mongodb,nginx"/>
   </p>
   
-  <h3 align="left">💻 Most Used Languages:</h3>
+  <h3 align="left">💻 Most Used Languages & Tech:</h3>
   <p align="left">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Cloud-00ADEE?style=for-the-badge&logo=icloud&logoColor=white"/>
   </p>
   
   <p align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elkhokh&theme=monokai"/>
   </p>
 </div>
-
-###
