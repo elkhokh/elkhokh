@@ -1,54 +1,60 @@
-<h1 align="center">Mustafa Khalid</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25D366&center=true&vCenter=true&width=435&lines=Backend+Developer;PHP+|+Laravel+Expert;Java+|+Spring+Boot+Developer;Cloud+|+DevOps+Enthusiast" alt="Typing SVG" />
-</p>
+<h1 align="left">Mustafa Khalid | Backend Developer | PHP | Laravel | Java | Spring Boot</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mustafa-khalid-a50598267/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/+201004643861"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://x.com/ElkhokhyMostafa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+###
 
----
-
-### ⚡ About Me
-- 🌍 Based in **Egypt**.
-- 🚀 Backend Developer with a deep focus on **Scalable Systems** and **Microservices**.
-- 🛠️ Mastering **PHP/Laravel** and **Java/Spring Boot** ecosystem.
-- 🎓 Passionate about Problem Solving (find me on **Codewars**).
-
----
-
-### 🛠️ Technical Stack
-
-| Category | Skills |
-| :--- | :--- |
-| **Backend** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) |
-| **Database & Cache** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.logo/badge/-Git-F05032?logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
-| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=elkhokh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=elkhokh&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkhokh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 Coding Challenges
 <p align="left">
-  <a href="https://www.codewars.com/users/Mustapha%20khalid%20">
-    <img src="https://www.codewars.com/users/Mustapha%20khalid%20/badges/large" alt="Codewars Badge" />
+👋 Hi, I'm Mostafa!<br>
+🚀 Backend Developer specializing in PHP (Laravel) & Java (Spring Boot)<br>
+💻 Passionate about building scalable web applications & cloud solutions<br>
+🌍 Based in Egypt<br>
+⚡ Tech Stack: PHP | Laravel | Java | Spring Boot | C++ | C | MySQL | Redis | Cloud<br>
+📫 Let's connect and build something amazing together!
+</p>
+
+###
+
+<h2 align="left">🌐 Connect With Me:</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mustafa-khalid-a50598267/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/ElkhokhyMostafa" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://wa.me/+201004643861" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://youtube.com/@YourChannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.codewars.com/users/Mustapha%20khalid%20" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
   </a>
 </p>
 
-<p align="center">
-  <i>"Writing clean, maintainable, and efficient code is not a choice, it's a lifestyle."</i>
-</p>
+###
+
+<div align="left">
+<h3 align="left">🛠️ Languages & Tools:</h3>
+  <p align="left">
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,php,laravel,cpp,c,js,mysql,redis,aws,docker,git,linux,vscode,postman,mongodb,nginx"/>
+  </p>
+  
+  <h3 align="left">💻 Most Used Languages & Tech:</h3>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Cloud-00ADEE?style=for-the-badge&logo=icloud&logoColor=white"/>
+  </p>
+  
+  <p align="left">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elkhokh&theme=monokai"/>
+  </p>
+</div>
